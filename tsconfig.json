@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "esNext",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "outDir": "out",
+    "rootDir": "." 
+  } ,
+  "files": [
+    "./src/index.ts"
+  ]
+}
