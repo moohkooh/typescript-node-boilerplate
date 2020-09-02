@@ -1,5 +1,6 @@
-import { Example } from './index';
+import { Example } from "./index";
 
-it('export', async () => {
-    const example = new Example();
+it("export", async () => {
+  const example = new Example();
+  example.init();
 });

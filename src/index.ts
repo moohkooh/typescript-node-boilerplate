@@ -1,3 +1,9 @@
 export class Example {
-    constructor() {}
+  constructor() {}
+
+  init() {
+    console.log("test");
+  }
+
+  foobar() {}
 }
